@@ -2,7 +2,7 @@ import telebot
 import os
 from logic import DatabaseManager, create_collage
 
-TOKEN = 'BURAYA_BOT_TOKENINI_YAZ'
+TOKEN = 'YAZMAYACAGIMTABIKI'
 bot = telebot.TeleBot(TOKEN)
 DATABASE = 'bot_database.db'
 
